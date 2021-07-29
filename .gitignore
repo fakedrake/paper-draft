@@ -1,0 +1,10 @@
+*.cut
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+auto/*
+.dir-locals.el
